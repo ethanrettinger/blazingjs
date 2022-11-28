@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "outFile": "./dist/index.js"
+    },
+    "include": ["./src/index.ts"]
+}
